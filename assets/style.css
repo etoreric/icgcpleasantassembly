@@ -1,0 +1,12 @@
+
+body {
+  background-image: #FFFAF0;
+  font-family: 'inter', sans-serif;
+  font-weight: bold;
+}
+
+
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
